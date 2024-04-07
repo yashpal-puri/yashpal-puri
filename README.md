@@ -50,6 +50,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashpalpuri0?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpal-puri&theme=dark_lover" alt="yashpal-puri" /></a> </p>
