@@ -51,11 +51,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Yashpal's LeetCode Progress:</h3>
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yashpalpuri0?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal)
-
-<h3 align="left">Yashpal's Gfg Progress:</h3>
 
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)](https://auth.geeksforgeeks.org/user/puri_yashpal/profile)
 
