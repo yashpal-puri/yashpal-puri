@@ -52,6 +52,7 @@
 </p>
 
 <h3 align="left">Yashpal Puri's LeetCode Progress:</h3>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yashpalpuri0?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
