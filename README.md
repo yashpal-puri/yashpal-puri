@@ -57,7 +57,7 @@
 
 <h3 align="left">Yashpal's Gfg Progress:</h3>
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)](https://auth.geeksforgeeks.org/user/puri_yashpal/profile)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
