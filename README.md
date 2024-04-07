@@ -50,11 +50,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-<!-- added -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpal-puri&theme=dark_lover" alt="yashpal-puri" /></a> </p>
-<!-- added -->
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpal-puri&layout=compact&theme=dark" alt=yashpal-puri />
 
