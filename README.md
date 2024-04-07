@@ -52,9 +52,13 @@
 </p>
 
 <h3 align="left">Yashpal's LeetCode Progress:</h3>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yashpalpuri0?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal)
+
 <h3 align="left">Yashpal's Gfg Progress:</h3>
+
 ![geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)(https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpal-puri&theme=dark_lover" alt="yashpal-puri" /></a> </p>
