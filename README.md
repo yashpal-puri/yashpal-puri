@@ -57,6 +57,8 @@
 
 ![Yashpal's Naukri-Code360 stats](https://naukri-code-360-stats.onrender.com/?username=puri_yashpal)
 
+<img src="https://naukri-code-360-stats.onrender.com/?username=puri_yashpal" alt="SVG Image">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpal-puri&theme=dark_lover" alt="yashpal-puri" /></a> </p>
