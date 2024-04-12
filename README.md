@@ -55,7 +55,7 @@
 
 [![Yashpal's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)](https://auth.geeksforgeeks.org/user/puri_yashpal/profile)
 
-![Yashpal's Naukri-Code360 stats](https://naukri-code-360-stats.onrender.com/?username=puri_yashpal)
+<img src="http://localhost:3000/?username=puri_yashpal" alt="jpg">
 
 <img src="https://naukri-code-360-stats.onrender.com/?username=puri_yashpal" alt="SVG Image">
 
