@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **MERN (ReactJs and NextJS)**
 - 💬 Ask me about **JavaScript, React, Node.js,and any general software development questions.**
 - 📫 Reach me at **puriyash35@gmail.com**
-- 📄 <a href="https://drive.google.com/file/d/1qzwNJVDsxwova9xYn95wtEQfZnuvKSCX/view?usp=sharing" target="_blank">My Resume</a>
 
 <div> 
 
