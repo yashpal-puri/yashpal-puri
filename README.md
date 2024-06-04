@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 
-- 🔭 I’m currently working on **MERN (ReactJs and NextJS)**
+- 🔭 I’m currently working on **MERN/MEAN (ReactJs, NextJS and Angular)**
 - 💬 Ask me about **JavaScript, React, Node.js,and any general software development questions.**
 - 📫 Reach me at **puriyash35@gmail.com**
 - <a href="https://yashpalpuriportfolio.vercel.app/" target="_blank">My Portfolio Website</a>
