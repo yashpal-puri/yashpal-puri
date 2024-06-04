@@ -56,7 +56,7 @@
 
 [![Yashpal's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=puri_yashpal)](https://auth.geeksforgeeks.org/user/puri_yashpal/profile)
 
-![[https://naukri-code-360-stats.onrender.com/?username=puri_yashpal](https://www.naukri.com/code360/profile/puri_yashpal)]
+![[Naukri-Code-360 Code studio profile](https://www.naukri.com/code360/profile/puri_yashpal)]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpal-puri&label=Profile%20views&color=0e75b6&style=flat" alt="yashpal-puri" /> </p>
